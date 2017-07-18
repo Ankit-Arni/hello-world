@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="HelloWorldTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2017-07-18T04:24:09" hostname="ITT-ANKITM" time="0.0">
+<testsuite name="HelloWorldTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2017-07-18T05:29:20" hostname="ITT-ANKITM" time="0.015">
   <properties/>
   <testcase name="testHelloEmpty" classname="HelloWorldTest" time="0.0"/>
   <testcase name="testHelloWorld" classname="HelloWorldTest" time="0.0"/>
